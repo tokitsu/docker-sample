@@ -1,3 +1,3 @@
-# RAILSサンプルアプリケーション
+### RAILSサンプルアプリケーション
 
-## DockerでRAILSアプリを動かす
+#### Docker環境のRAILSサンプルアプリ
